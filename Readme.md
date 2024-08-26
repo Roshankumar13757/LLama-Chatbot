@@ -15,8 +15,7 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/llama-chat-bot.git
 cd llama-chat-bot
-chmod +x dev.sh
-./dev.sh
+
 ```
 ### 2. Run the Development Script
 Ensure you have Git Bash or a compatible shell environment. Execute the dev.sh script to set up and start the chat bot. This script will handle the installation of dependencies, pull the necessary model, and start the bot:
