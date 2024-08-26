@@ -34,9 +34,9 @@ Once the dev.sh script has completed, the chat bot should be up and running. You
 
 ### Prerequisites
 
-*Git Bash or a compatible shell environment.
-*Python (ensure pip is available and configured).
-*Streamlit and Ollama should be installed (these will be handled by the script).
+* Git Bash or a compatible shell environment.
+* Python (ensure pip is available and configured).
+* Streamlit and Ollama should be installed (these will be handled by the script).
 
 ### Troubleshooting
 If you encounter any issues, check the following:
@@ -46,9 +46,9 @@ If you encounter any issues, check the following:
 chmod +x dev.sh
 ```
 
-*Command Errors: Verify that all commands in the dev.sh script are correct and executable in your environment. Check error.log if you encounter any errors.
+* Command Errors: Verify that all commands in the dev.sh script are correct and executable in your environment. Check error.log if you encounter any errors.
 
-*Dependencies: Ensure all necessary dependencies are correctly installed. You can manually install them by running:
+* Dependencies: Ensure all necessary dependencies are correctly installed. You can manually install them by running:
 
 ```bash
 pip install -r requirements.txt
